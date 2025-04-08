@@ -1,1 +1,1 @@
-This is just a collection of practice projects that I've created to apply the Python scripting concepts I learn as I read through the Python documentation at: https://docs.python.org/3/tutorial/appetite.html
+Please note that all of the software I create for personal use and enjoyment will always be free of charge and open-source. Feel free to use, modify, and distribute any of these scripts to your heart's content.
